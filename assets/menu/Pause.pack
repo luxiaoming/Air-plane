@@ -1,0 +1,32 @@
+Pause.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+game_burst_aircraft_bkg_small
+  rotate: false
+  xy: 71, 2
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: 9
+game_burst_aircraft_button_bule_small_pressed.
+  rotate: true
+  xy: 2, 49
+  size: 67, 43
+  orig: 67, 43
+  offset: 0, 0
+  index: 9
+game_burst_aircraft_button_bule_small_normal
+  rotate: false
+  xy: 2, 2
+  size: 67, 45
+  orig: 69, 45
+  offset: 1, 0
+  index: 9
+game_burst_aircraft_button_bule_small
+  rotate: false
+  xy: 2, 2
+  size: 67, 45
+  orig: 69, 45
+  offset: 1, 0
+  index: 9

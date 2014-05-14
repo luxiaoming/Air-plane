@@ -1,0 +1,11 @@
+baohe.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tools_time_box
+  rotate: true
+  xy: 2, 2
+  size: 61, 45
+  orig: 65, 65
+  offset: 2, 10
+  index: -1
